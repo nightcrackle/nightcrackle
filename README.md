@@ -1,7 +1,3 @@
-# Alfredo Tabianan
-
-**Senior Systems Infrastructure Engineer**
-
 [![Website](https://img.shields.io/badge/Website-alfredo.tabianan.com-222222?style=for-the-badge)](https://alfredo.tabianan.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nixadvocate-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/nixadvocate/)
 [![GitHub followers](https://img.shields.io/github/followers/nightcrackle?style=for-the-badge&logo=github&label=Followers)](https://github.com/nightcrackle?tab=followers)
@@ -48,15 +44,13 @@ I turn manual infrastructure into version-controlled automation that patches its
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nightcrackle&show_icons=true&hide_border=true&custom_title=Alfredo's%20GitHub%20Stats" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nightcrackle&layout=compact&hide_border=true" height="165" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nightcrackle&show_icons=true&theme=github_dark&hide_border=true&custom_title=Alfredo's%20GitHub%20Stats" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nightcrackle&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top languages" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=nightcrackle&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=nightcrackle&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
 </p>
 
 ## Connect
 
-- Website: [alfredo.tabianan.com](https://alfredo.tabianan.com/)
-- LinkedIn: [linkedin.com/in/nixadvocate](https://www.linkedin.com/in/nixadvocate/)
 - GitHub: [github.com/nightcrackle](https://github.com/nightcrackle)
