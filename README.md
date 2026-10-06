@@ -15,7 +15,7 @@ I turn manual infrastructure into version-controlled automation that patches its
 | Networking & Security | ![pfSense](https://img.shields.io/badge/pfSense-21262D?style=flat-square&logo=pfsense&logoColor=white) ![Snort](https://img.shields.io/badge/Snort-21262D?style=flat-square&logo=snort&logoColor=F6A7AA) |
 | Development & Scripting | ![Python](https://img.shields.io/badge/Python-21262D?style=flat-square&logo=python&logoColor=3776AB) ![Bash](https://img.shields.io/badge/Bash-21262D?style=flat-square&logo=gnubash&logoColor=4EAA25) ![Git](https://img.shields.io/badge/Git-21262D?style=flat-square&logo=git&logoColor=F05032) ![VS Code](https://img.shields.io/badge/VS_Code-21262D?style=flat-square) |
 | Containers & Orchestration | ![Docker](https://img.shields.io/badge/Docker-21262D?style=flat-square&logo=docker&logoColor=2496ED) ![Podman](https://img.shields.io/badge/Podman-21262D?style=flat-square&logo=podman&logoColor=892CA0) ![Kubernetes](https://img.shields.io/badge/Kubernetes-21262D?style=flat-square&logo=kubernetes&logoColor=326CE5) |
-| Monitoring | ![Grafana](https://img.shields.io/badge/Grafana-21262D?style=flat-square&logo=grafana&logoColor=F46800) |
+| Monitoring | ![Grafana](https://img.shields.io/badge/Grafana-21262D?style=flat-square&logo=grafana&logoColor=F46800) ![Nagios](https://img.shields.io/badge/Nagios-21262D?style=flat-square) ![MRTG](https://img.shields.io/badge/MRTG-21262D?style=flat-square) ![Cacti](https://img.shields.io/badge/Cacti-21262D?style=flat-square) ![Prometheus](https://img.shields.io/badge/Prometheus-21262D?style=flat-square&logo=prometheus&logoColor=E6522C) |
 | AI Tools | ![Claude](https://img.shields.io/badge/Claude-21262D?style=flat-square&logo=claude&logoColor=D97757) |
 
 ## Principles
