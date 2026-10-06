@@ -1,7 +1,7 @@
-[![Website](https://img.shields.io/badge/Website-alfredo.tabianan.com-222222?style=for-the-badge)](https://alfredo.tabianan.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nixadvocate-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/nixadvocate/)
-[![GitHub followers](https://img.shields.io/github/followers/nightcrackle?style=for-the-badge&logo=github&label=Followers)](https://github.com/nightcrackle?tab=followers)
-![Profile views](https://komarev.com/ghpvc/?username=nightcrackle&style=for-the-badge&label=Profile%20views&color=blue)
+[![Website](https://img.shields.io/badge/Website-alfredo.tabianan.com-21262D?style=for-the-badge&labelColor=161B22)](https://alfredo.tabianan.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nixadvocate-21262D?style=for-the-badge&labelColor=161B22)](https://www.linkedin.com/in/nixadvocate/)
+[![GitHub followers](https://img.shields.io/github/followers/nightcrackle?style=for-the-badge&logo=github&logoColor=white&label=Followers&labelColor=161B22&color=21262D)](https://github.com/nightcrackle?tab=followers)
+![Profile views](https://komarev.com/ghpvc/?username=nightcrackle&style=for-the-badge&label=Profile%20views&color=21262D)
 
 > Automate it once. Run it everywhere.
 
@@ -13,12 +13,12 @@ I turn manual infrastructure into version-controlled automation that patches its
 
 | Area | Tools |
 |------|-------|
-| Infrastructure & Automation | ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) ![AWX](https://img.shields.io/badge/AWX-EE0000?style=flat-square&logo=ansible&logoColor=white) ![RHEL](https://img.shields.io/badge/Red_Hat_Enterprise_Linux-EE0000?style=flat-square&logo=redhat&logoColor=white) ![Puppet](https://img.shields.io/badge/Puppet-FFAE1A?style=flat-square&logo=puppet&logoColor=white) ![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=flat-square&logo=openstack&logoColor=white) ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white) ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white) |
-| Networking & Security | ![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white) ![Snort](https://img.shields.io/badge/Snort-F6A7AA?style=flat-square&logo=snort&logoColor=black) |
-| Development & Scripting | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square) |
-| Containers & Orchestration | ![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
-| Monitoring | ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) |
-| AI Tools | ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white) |
+| Infrastructure & Automation | ![Ansible](https://img.shields.io/badge/Ansible-21262D?style=flat-square&logo=ansible&logoColor=EE0000) ![AWX](https://img.shields.io/badge/AWX-21262D?style=flat-square&logo=ansible&logoColor=EE0000) ![RHEL](https://img.shields.io/badge/Red_Hat_Enterprise_Linux-21262D?style=flat-square&logo=redhat&logoColor=EE0000) ![Puppet](https://img.shields.io/badge/Puppet-21262D?style=flat-square&logo=puppet&logoColor=FFAE1A) ![OpenStack](https://img.shields.io/badge/OpenStack-21262D?style=flat-square&logo=openstack&logoColor=ED1944) ![Proxmox](https://img.shields.io/badge/Proxmox-21262D?style=flat-square&logo=proxmox&logoColor=E57000) ![VMware](https://img.shields.io/badge/VMware-21262D?style=flat-square&logo=vmware&logoColor=607078) ![Terraform](https://img.shields.io/badge/Terraform-21262D?style=flat-square&logo=terraform&logoColor=844FBA) |
+| Networking & Security | ![pfSense](https://img.shields.io/badge/pfSense-21262D?style=flat-square&logo=pfsense&logoColor=white) ![Snort](https://img.shields.io/badge/Snort-21262D?style=flat-square&logo=snort&logoColor=F6A7AA) |
+| Development & Scripting | ![Python](https://img.shields.io/badge/Python-21262D?style=flat-square&logo=python&logoColor=3776AB) ![Bash](https://img.shields.io/badge/Bash-21262D?style=flat-square&logo=gnubash&logoColor=4EAA25) ![Git](https://img.shields.io/badge/Git-21262D?style=flat-square&logo=git&logoColor=F05032) ![VS Code](https://img.shields.io/badge/VS_Code-21262D?style=flat-square) |
+| Containers & Orchestration | ![Podman](https://img.shields.io/badge/Podman-21262D?style=flat-square&logo=podman&logoColor=892CA0) ![Kubernetes](https://img.shields.io/badge/Kubernetes-21262D?style=flat-square&logo=kubernetes&logoColor=326CE5) |
+| Monitoring | ![Grafana](https://img.shields.io/badge/Grafana-21262D?style=flat-square&logo=grafana&logoColor=F46800) |
+| AI Tools | ![Claude](https://img.shields.io/badge/Claude-21262D?style=flat-square&logo=claude&logoColor=D97757) |
 
 ## Principles
 
