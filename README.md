@@ -50,7 +50,3 @@ I turn manual infrastructure into version-controlled automation that patches its
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=nightcrackle&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
 </p>
-
-## Connect
-
-- GitHub: [github.com/nightcrackle](https://github.com/nightcrackle)
