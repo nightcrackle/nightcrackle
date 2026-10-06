@@ -1,13 +1,9 @@
-[![Website](https://img.shields.io/badge/Website-portfolio.tabianan.com-21262D?style=for-the-badge&labelColor=161B22)](https://portfolio.tabianan.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nixadvocate-21262D?style=for-the-badge&labelColor=161B22)](https://www.linkedin.com/in/nixadvocate/)
 [![GitHub followers](https://img.shields.io/github/followers/nightcrackle?style=for-the-badge&logo=github&logoColor=white&label=Followers&labelColor=161B22&color=21262D)](https://github.com/nightcrackle?tab=followers)
 ![Profile views](https://komarev.com/ghpvc/?username=nightcrackle&style=for-the-badge&label=Profile%20views&color=21262D)
 
 > Automate it once. Run it everywhere.
 
 I turn manual infrastructure into version-controlled automation that patches itself, provisions on demand, and heals itself.
-
-**Automation Engineer · Linux Engineer · Ansible Automation Platform Specialist**
 
 ## Tech Stack
 
